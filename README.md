@@ -1,2 +1,4 @@
 # Game_Snake
 Snake game created using Java
+The Snake game is a simple 2D game where the player controls a continuously moving snake on a grid. The snake grows longer each time it eats food, increasing the difficulty of the game. The game ends if the snake hits the wall or collides with itself. The objective is to survive as long as possible while achieving a high score.
+This is a snake game in Java. It is created using the awt and swing graphics library. Throughout this project, I learnt how to create a graphical user interface (GUI) to display the Snake game, create the game loop, listen for Key presses to move the snake, use an ArrayList to store the snake's segments, and check for collision and out-of-bounds conditions to determine game over. This is a lesson from YouTube by Kenny Yip Coding uploaded in 19 July 2023.
